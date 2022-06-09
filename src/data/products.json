@@ -1,0 +1,20 @@
+[
+    {
+       "id":84473,
+       "name":"Test Product 1",
+       "image":"https://www.w3schools.com/images/picture.jpg",
+       "description":"this is the first product for testing"
+    },
+    {
+        "id":84474,
+        "name":"Test Product 2",
+        "image":"https://i.picsum.photos/id/76/200/300.jpg?hmac=SWpe2KMM2qFiQ8C8WHIZilaJb7KVkgOVVJPTbasGyUU",
+        "description":"this is the second product for testing"
+     },
+     {
+        "id":84475,
+        "name":"Test Product 3",
+        "image":"https://i.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U",
+        "description":"this is the third product for testing"
+     }
+ ]
